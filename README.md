@@ -2,7 +2,7 @@
 
 ## Table of Contents
 1. [Description](#description)
-2. [Additional Criteria](#additional)
+2. [Additional Conditions](#additional)
 3. [Demo](#demo)
 
 
@@ -19,7 +19,7 @@ This project is a random password generator. It is created to do the following:
 2. Then a password is generated based on the user cirteria. 
 3. The user will then recieve a custom randomly generated Password written on the page. 
 
-## Additional Criteria 
+## Additional Conditions
 <a name="additional"></a>
 1. If the user doesnt pick a password length between 8 and 128, they will be given an alert and prompted to try again, this will prompt a page refresh. 
 2. If the user selects an acceptable length but doesnt add and other criteria then the user will not get a password. 
